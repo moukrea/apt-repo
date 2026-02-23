@@ -1,8 +1,8 @@
 # moukrea/apt-repo
 
-APT package repository for opaq, hosted on GitHub Pages.
+Debian/Ubuntu APT package repository, hosted on GitHub Pages.
 
-## Installation
+## Adding the Repository
 
 ```bash
 # Add GPG key
@@ -12,18 +12,17 @@ curl -fsSL https://moukrea.github.io/apt-repo/pubkey.gpg | sudo gpg --dearmor -o
 echo "deb [signed-by=/usr/share/keyrings/moukrea.gpg] https://moukrea.github.io/apt-repo stable main" | \
   sudo tee /etc/apt/sources.list.d/moukrea.list
 
-# Install
-sudo apt update && sudo apt install opaq
+sudo apt update
 ```
 
-## Upgrade
+## Available Packages
+
+| Package | Description |
+|---------|-------------|
+| `opaq` | Credential manager — keeps secrets out of terminals, context windows, and command output |
+
+Install any package with:
 
 ```bash
-sudo apt update && sudo apt upgrade opaq
-```
-
-## Uninstall
-
-```bash
-sudo apt remove opaq
+sudo apt install <package-name>
 ```
