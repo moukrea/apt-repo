@@ -1,0 +1,20 @@
+Package: opaq
+Version: 0.1.5-1
+Architecture: arm64
+Maintainer: moukrea <contact@moukrea.dev>
+Installed-Size: 3597
+Depends: libc6:arm64 (>= 2.39)
+Filename: pool/main/o/opaq/opaq-0.1.5-linux-aarch64.deb
+Size: 1247812
+MD5sum: a9277bdcc134379943bdefcb7e01ccd1
+SHA1: 07b2f9a444bf26b919c5c571bdc68353b57e2278
+SHA256: 8ba36fc9b66bc6826b8841a5fe871ee4a7ced038103ac116761027cf7f32b995
+Section: utils
+Priority: optional
+Description: Credential manager that keeps secrets out of terminals, agent context windows,
+ shell histories, and command output
+ opaq is a credential manager that keeps secrets out of terminals, agent context
+ windows, shell histories, and command output. It encrypts credentials at rest
+ with age encryption and injects them into commands at runtime via placeholder
+ substitution.
+
