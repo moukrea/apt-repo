@@ -1,14 +1,14 @@
 Package: opaq
-Version: 0.1.7-1
+Version: 0.1.8-1
 Architecture: amd64
 Maintainer: moukrea <contact@moukrea.dev>
-Installed-Size: 4102
+Installed-Size: 4107
 Depends: libc6 (>= 2.31)
-Filename: pool/main/o/opaq/opaq_0.1.7_amd64.deb
-Size: 1347420
-MD5sum: 420a2a0b424485007d04280b065f3cd9
-SHA1: 54e8c774bbe5353ccc91b11b14d6b79cbd2cf780
-SHA256: 5556f5d02ab4c544fb7a7f9d6d410f251bebe8a02615174eaa3be345716a31bd
+Filename: pool/main/o/opaq/opaq_0.1.8_amd64.deb
+Size: 1347104
+MD5sum: c4f87c8e40a49a1ce80ca8b181080df3
+SHA1: 71501ccac9b81ffd8f4d4e222259a0e6bb942cc2
+SHA256: 76507dee9f7bda60d05ca8476ebafd0cfacb0a64ef56f4f4000b163e6fe7935e
 Section: utils
 Priority: optional
 Description: Credential manager that keeps secrets out of terminals, agent context windows,
