@@ -18,3 +18,22 @@ Description: Credential manager that keeps secrets out of terminals, agent conte
  with age encryption and injects them into commands at runtime via placeholder
  substitution.
 
+Package: snag
+Version: 0.1.0-1
+Architecture: arm64
+Maintainer: moukrea <contact@moukrea.dev>
+Installed-Size: 1225
+Depends: libc6 (>= 2.31)
+Filename: pool/main/s/snag/snag_0.1.0_arm64.deb
+Size: 484892
+MD5sum: 2deb7b37cc6a675c38721461a089f30e
+SHA1: ceb1de19928b9802f172c02e9253e630e128d8be
+SHA256: d2510bf73f080ab91dc2bdbce0ca1ef8244ea92fdd7d2d14842596073a46816f
+Section: utils
+Priority: optional
+Description: Local PTY session multiplexer — spawn, discover, attach to, and interact with
+ any shell session
+ snag is a local PTY session multiplexer that lets you spawn, discover, attach
+ to, and interact with any shell session on your machine — interactively or
+ programmatically.
+
