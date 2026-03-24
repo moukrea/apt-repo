@@ -1,14 +1,14 @@
 Package: jaunt-host
-Version: 0.3.0-1
+Version: 0.3.1-1
 Architecture: arm64
 Maintainer: moukrea <contact@moukrea.dev>
 Installed-Size: 1033
 Depends: libc6 (>= 2.31)
-Filename: pool/main/j/jaunt/jaunt_0.3.0_arm64.deb
-Size: 440092
-MD5sum: 5d911f5c60d633a93ce4cec705092a8e
-SHA1: 301fdb1e567ee77e188561cba4b1d687762a029b
-SHA256: 30696c85e43d5bfcba05d4897ba09b0b02fd9d2237086ecb765e833b25867b8d
+Filename: pool/main/j/jaunt/jaunt_0.3.1_arm64.deb
+Size: 440216
+MD5sum: 66d43cc2d00a625d7c6ce6301da71415
+SHA1: 5e1f2c73154be14103fe6ec6e65eaac4db42c6f8
+SHA256: efc545fdb7cff57f639bfb3f6289182aafd56ddfaad678c1e6e44c3b76a0c755
 Section: utils
 Priority: optional
 Description: Jaunt host daemon — bridge cairn P2P to local snag sessions
