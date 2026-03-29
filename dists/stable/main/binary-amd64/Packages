@@ -1,14 +1,14 @@
 Package: jaunt
-Version: 0.11.2
+Version: 0.12.0
 Architecture: amd64
 Maintainer: moukrea
-Installed-Size: 7130
+Installed-Size: 7134
 Depends: libwebkit2gtk-4.1-0, libgtk-3-0
-Filename: pool/main/j/jaunt-app/jaunt-app_0.11.2_amd64.deb
-Size: 3148932
-MD5sum: c1a15b6327435d2d69add1cfd5fe4274
-SHA1: 740f53199e731e1390080046e2eef0b5b25a87c9
-SHA256: acafe9598a18fdb2488a84586758cbff451366aeba67e53c890438339efb9f66
+Filename: pool/main/j/jaunt-app/jaunt-app_0.12.0_amd64.deb
+Size: 3148876
+MD5sum: 02eac303106fd9b4cc6095a55d1d9edd
+SHA1: 94044ba48fc401503a4928376365f7e8ce8b193b
+SHA256: 618faef20ea3dcf6c4aabc6cbd10449edd08393712d4d48bc7e841ba9ebddbd9
 Priority: optional
 Description: Jaunt native app -- access your machine from any device
  (none)
