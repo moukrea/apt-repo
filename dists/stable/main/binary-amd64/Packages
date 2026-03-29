@@ -51,16 +51,16 @@ Description: Credential manager that keeps secrets out of terminals, agent conte
  substitution.
 
 Package: snag
-Version: 0.1.4-1
+Version: 0.2.0-1
 Architecture: amd64
 Maintainer: moukrea <contact@moukrea.dev>
-Installed-Size: 1517
+Installed-Size: 1528
 Depends: libc6 (>= 2.31)
-Filename: pool/main/s/snag/snag_0.1.4_amd64.deb
-Size: 561676
-MD5sum: 433cefe94180f561f5737754a7406e6e
-SHA1: 8403dd86b0b4ecee0daf222fe0f8506d88c26dc1
-SHA256: 9079bcb4e6a7fa91e760b729c88bd12acdc655ed9a1bddf95d9ec111cecd2490
+Filename: pool/main/s/snag/snag_0.2.0_amd64.deb
+Size: 564480
+MD5sum: 399e0e55c787a381e892febba2ead676
+SHA1: 0b8a2e080e324bab6c2cbbb7d96f4823d729f196
+SHA256: 000fe635704b271eca7e37be0d13248599790c0fb53c9c9c3b1f95d4f4a07603
 Section: utils
 Priority: optional
 Description: Local PTY session multiplexer — spawn, discover, attach to, and interact with
