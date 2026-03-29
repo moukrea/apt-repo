@@ -14,16 +14,16 @@ Description: Jaunt native app -- access your machine from any device
  (none)
 
 Package: jaunt-host
-Version: 0.10.1-1
+Version: 0.10.2-1
 Architecture: amd64
 Maintainer: moukrea <contact@moukrea.dev>
 Installed-Size: 6694
 Depends: libc6 (>= 2.31)
-Filename: pool/main/j/jaunt/jaunt_0.10.1_amd64.deb
-Size: 2355148
-MD5sum: b5e334360df4681f1074899b9617e25f
-SHA1: 535aa5fe08078f1c999e9f1aff1178cfaf1826dd
-SHA256: 2470ac69487e613eb5003012d7e1bc09ca7ff0656bf9fe03dadc0d3b835e601b
+Filename: pool/main/j/jaunt/jaunt_0.10.2_amd64.deb
+Size: 2355048
+MD5sum: 8c82d33c68095a50e53be58a9e891792
+SHA1: fc634548bb3857ba08a9616de7c2d618eb1cdf2f
+SHA256: 00be239935324dfefa2ade046c09c8345227a234d87dc32468396ebf30b8b80b
 Section: utils
 Priority: optional
 Description: Jaunt host daemon — bridge cairn P2P to local snag sessions
