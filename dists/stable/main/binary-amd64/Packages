@@ -69,3 +69,23 @@ Description: Local PTY session multiplexer — spawn, discover, attach to, and i
  to, and interact with any shell session on your machine — interactively or
  programmatically.
 
+Package: sshx-mobile-host
+Version: 1.0.0
+Architecture: all
+Maintainer: moukrea <47535798+moukrea@users.noreply.github.com>
+Installed-Size: 115
+Depends: python3, tmux
+Recommends: qrencode
+Filename: pool/main/s/sshx-mobile-host/sshx-mobile-host_1.0.0_all.deb
+Size: 44022
+MD5sum: 8490a5a6bc434161266790e45e20d26f
+SHA1: b201c935967c0bef5028f6432437c5a04b052bc9
+SHA256: adb3f4ae6ae6cb06a7bc03f9318918f74a38ec680f3f0a202a2faddb4918e61c
+Section: utils
+Priority: optional
+Homepage: https://github.com/moukrea/sshx-mobile
+Description: Host tooling for sshx-mobile.
+ Runs sshx over a persistent, isolated tmux server with a private resolver and auto-reconnect, so
+ the sshx-mobile Android app can reach your shell from anywhere - no port forwarding, no VPN, no
+ account. Install, then run `sshx-host-setup` to deploy the per-user services and print a QR to scan.
+
