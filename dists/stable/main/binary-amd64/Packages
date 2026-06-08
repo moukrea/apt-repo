@@ -70,16 +70,16 @@ Description: Local PTY session multiplexer — spawn, discover, attach to, and i
  programmatically.
 
 Package: sshx-mobile-host
-Version: 1.0.9
+Version: 1.0.10
 Architecture: all
 Maintainer: moukrea <47535798+moukrea@users.noreply.github.com>
 Installed-Size: 157
 Depends: python3, tmux, qrencode
-Filename: pool/main/s/sshx-mobile-host/sshx-mobile-host_1.0.9_all.deb
-Size: 59446
-MD5sum: 3b8c7c3713cbdd8be7d3aa69ae93d365
-SHA1: 73ea1fa46ebb61dcc1fcfc589fdabb474e2b6658
-SHA256: b2588e479676b298ecc34691ee9546ff6c04d454f784b5ee618f653c68357a9c
+Filename: pool/main/s/sshx-mobile-host/sshx-mobile-host_1.0.10_all.deb
+Size: 59460
+MD5sum: 8c2ceb2473276eaf2faec879c425dc4d
+SHA1: 1cf0f6678e5809e98bb5c38cd9c859065926a5e4
+SHA256: a5a5331d2a10897cfa23809acf8f2d3b74cc030754cd8e8436376c27ba97da0c
 Section: utils
 Priority: optional
 Homepage: https://github.com/moukrea/sshx-mobile
